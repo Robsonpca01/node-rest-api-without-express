@@ -1,6 +1,6 @@
 const url = require('url');
 
-exports.abc = (req, res) => {
+exports.queryHandle = (req, res) => {
     let name = "Default response";
     const reqParams = url.parse(req.url, true)
     if(reqParams.query.name){
