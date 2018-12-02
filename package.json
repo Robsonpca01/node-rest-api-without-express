@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-without-express",
+  "version": "1.0.0",
+  "description": "Simples rest API without any frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robsonpca01/node-rest-api-without-express.git"
+  },
+  "author": "Robson S. Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robsonpca01/node-rest-api-without-express/issues"
+  },
+  "homepage": "https://github.com/Robsonpca01/node-rest-api-without-express#readme"
+}
